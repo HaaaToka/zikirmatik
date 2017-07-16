@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\HaaToka\.android\build-cache\5904a694654c63a10cf42de212402bde7d47d394\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\AndroidStudioProjects\Zikirmatik\app\build\intermediates\pre-dexed\debug\classes_d9fafde7138b99c613822bcf2e9a33380efc5e56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HaaToka\.android\build-cache\c50b0b2b4a9f9b61939743a22d646bb737c05254\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidStudioProjects\Zikirmatik\app\build\intermediates\pre-dexed\debug\classes_8af1bcf216e8e846e348f05bc2fd29dd49874f4e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\Zikirmatik\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\AndroidStudioProjects\Zikirmatik\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_37dd37f68bc8bc0444546d9375b3e3624ec00dd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HaaToka\.android\build-cache\b7b44c6caa955263f58d23b548f4d4febf903193\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\AndroidStudioProjects\Zikirmatik\app\build\intermediates\pre-dexed\debug\classes_0fc3d9ba65785db22bc2d5234f76bac28dc149f6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\Zikirmatik\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d8f67356e0c8b977770bcaaceb998dabe066f971">
+        <dex dex="D:\AndroidStudioProjects\Zikirmatik\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ae7078fa31749bca401ba7bc1dd972fc95425078\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HaaToka\.android\build-cache\4cc41fff0a140f614d893dad89ebf077087b37dd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\AndroidStudioProjects\Zikirmatik\app\build\intermediates\pre-dexed\debug\classes_90ca2a42c1a2890de6c27db10fe8d073d237e7d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HaaToka\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\AndroidStudioProjects\Zikirmatik\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_6ffa7442fd7f97929de51f46fb271916bded51cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HaaToka\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\AndroidStudioProjects\Zikirmatik\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_3896a50ca0e69ddbaf9492059f62ad6eafc0e784.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HaaToka\.android\build-cache\008d26c4119e65b9080d0dbd360f120cc782d5a4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\AndroidStudioProjects\Zikirmatik\app\build\intermediates\pre-dexed\debug\classes_fba87280d79e680fbea4f3f75eb8b4fa9cf3c5e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HaaToka\.android\build-cache\d34dd1a4ddffaa119d04462c0f8a3ee93ff06a29\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\AndroidStudioProjects\Zikirmatik\app\build\intermediates\pre-dexed\debug\classes_7c924d4be4a17d14c00ebbcf702333bc76dcfff4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HaaToka\.android\build-cache\e7471cfa882d1f4a58b0584380150651b5c23c7d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\AndroidStudioProjects\Zikirmatik\app\build\intermediates\pre-dexed\debug\classes_a12c1915bf25a936d0f7751f588429283a52b71d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HaaToka\.android\build-cache\27f51b8b5c63e6ff29e39c3ce413f01eeba7770d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\AndroidStudioProjects\Zikirmatik\app\build\intermediates\pre-dexed\debug\classes_3cca0b30f6b7db51ccbdc819ff1eef644c28b622.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HaaToka\.android\build-cache\46296320b79b9acee0fb40d6c6bf57c9005cbec1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\AndroidStudioProjects\Zikirmatik\app\build\intermediates\pre-dexed\debug\classes_d951798106e0941ac152f2fcd6718275e26827fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HaaToka\.android\build-cache\cbe896929148fefa47a2584326c4d4be3bb9c9d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\AndroidStudioProjects\Zikirmatik\app\build\intermediates\pre-dexed\debug\classes_a394b532983fbb9349a0ad3cb4314219ead3e140.jar" />
+    </item>
+
+</items>
